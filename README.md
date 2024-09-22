@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm John 👋
 
-<!--
-**John-D-T/John-D-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a Data Engineer, with a background in Economics!
+- 🌱 I’m looking to learn more about:
+  - Concepts and best practice in Software Engineering
+  - New and interesting tools in the Data space
+  - Data Science 
+  - Scala (for Data Engineering)
+  - Kotlin (to try developing an Android application)
+  - C (for the heck of it)
+- 🧑‍💻 I write a bit on medium: https://medium.com/@john_tringham
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Some of my projects 
+
+- [Using film indicators to nowcast GDP in the United Kindom](https://github.com/John-D-T/webscrape_and_nowcast_project)
+- [Explore song data on Spotify](https://github.com/John-D-T/spotify_exploration)
